@@ -5,3 +5,7 @@ This repository contains design patterns in PHP as a part of CODENIP YouTube vid
 Design patterns php web
 http://designpatternsphp.readthedocs.io
 
+https://designpatternsphp.readthedocs.io/en/latest/
+En español
+https://designpatternsphp.readthedocs.io/es/latest/
+
