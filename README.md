@@ -5,3 +5,7 @@ This repository contains design patterns in PHP as a part of CODENIP YouTube vid
 Design patterns php web
 http://designpatternsphp.readthedocs.io
 
+Factoría Abstracta
+https://designpatternsphp.readthedocs.io/es/latest/Creational/AbstractFactory/README.html#
+
+https://refactoring.guru/design-patterns/abstract-factory
