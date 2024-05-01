@@ -8,7 +8,10 @@ http://designpatternsphp.readthedocs.io
 https://designpatternsphp.readthedocs.io/en/latest/
 En español
 https://designpatternsphp.readthedocs.io/es/latest/
+Factoría Abstracta
+https://designpatternsphp.readthedocs.io/es/latest/Creational/AbstractFactory/README.html#
 
+https://refactoring.guru/design-patterns/abstract-factory
 
 ## Orden de los videos
 Specification (Behavioral)
